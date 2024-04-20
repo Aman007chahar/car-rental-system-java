@@ -82,9 +82,7 @@ class Rental {
         return customer;
     }
 
-    public int getDays() {
-        return days;
-    }
+
 }
 
 class CarRentalSystem {
